@@ -1,3 +1,0 @@
-std = [0.2, 0.2]
-0.2 in velocity,
-std in headway does not matter
